@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **strsivaram486@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XCIK_YT_bl24A4tstucD-mhBq4DL1uj9/view?usp=sharing](https://drive.google.com/file/d/1XCIK_YT_bl24A4tstucD-mhBq4DL1uj9/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sivaramakrishnan-t2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivaramakrishnan-t2610" height="30" width="40" /></a>
